@@ -1,0 +1,40 @@
+    1  ng generate component user-list
+    2  ng generate component item
+    3  ng generate component article
+    4  ng g class article.model
+    5  cd src/app/article
+    6  ng g class Article
+    7  ng g class article
+    8  cd ../../../
+    9  ng g s article
+   10  ng serve
+   11  ng generate component maison
+   12  ng generate component produits
+   13  ng generate component contacts
+   14  ng g c templateDrivenForm
+   15  ng g c betterForm
+   
+   // Démarrage du projet git test
+   16  pwd
+   17  cd workspaceMaxime/
+   18  pwd
+   19  ls -d
+   20  ls -d *
+   21  cd Projets_Java/
+   22  git clone 
+   23  git clone 
+   24  git clone https://github.com/chloeDevJava/TestGITMaxChlo.git
+   25  ls -d *
+   26  cd TestGITMaxChlo/
+   27  ls
+   28  git pull origin master
+   29  git add .
+   30  git commit -m"ajout d'une classe Comptes"
+   31  git commit -m "ajout d'une classe Comptes"
+   32  git add .
+   33  git commit -m "ajout d'une classe Comptes"
+   34  git config --global user.email "maxime.melikian@laposte.net"
+   35  git add .
+   36  git commit -m "ajout d'une classe Comptes"
+   37  git pull origin master
+   38  history > commandes_git_MM.txt
